@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/13637225?v=3&s=600" width="33%">
+  <img src="https://github.com/eduardelenskii/Wanaby/assets/66919037/b8d94238-c6ea-4d43-944c-d20d3a5bebca" width="33%">
+
 </p>
 
 iOS Developer
